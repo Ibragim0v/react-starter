@@ -1,3 +1,3 @@
 export function App() {
-    return App
+    return <>App</>
 }
